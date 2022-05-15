@@ -1,6 +1,5 @@
 ### Olá! Me chamo Rodrigo Cruz 👋
 
-- 🔭 Hoje trabalho como estagiário da ADEPARÁ
 - 🐍 Estudando python e análise de dados
 - 💻 Tenho o objetivo/sonho de me tornar data scientist!
 
@@ -23,3 +22,5 @@
   <a href="https://www.linkedin.com/in/rodrigoceezar-02/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  
+![Snake animation](https://github.com/r0drigoceezar/r0drigoceezar/blob/output/github-contribution-grid-snake.svg)
