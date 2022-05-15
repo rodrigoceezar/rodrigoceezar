@@ -1,4 +1,4 @@
-### Olá! Me chamo Rodrigo Cruz 👋
+### Olá! Me chamo Rodrigo Cezar 👋
 
 - 🐍 Estudando python e análise de dados
 - 💻 Tenho o objetivo/sonho de me tornar data scientist!
