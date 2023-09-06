@@ -1,19 +1,29 @@
-### Olá! Me chamo Rodrigo Cezar 👋
+### Olá! Me chamo Rodrigo Cruz 👋
 
-- 🐍 Estudando python e análise de dados
-- 💻 Tenho o objetivo/sonho de me tornar data scientist!
+- ✔ I’m currently cartography engineer at UFRA, Brazil
+- ✔ I’m currently learning Python, Machine Learning e Data Analytics
+- ✔ How to reach me: rodrigoceezar0@gmail.com
+- ✔ My data portfolio: https://rodrigoceezar.github.io/portfolio_projetos_ds/
+
+
 
 <div align="center">
   <a href="https://github.com/rodrigoceezar">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rodrigoceezar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoceezar&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoceezar&show_icons=true&theme=chartreuse-light&include_all_commits=true&count_private=true"/>
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoceezar&layout=compact&langs_count=7&theme=chartreuse-light"/>
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rod-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-    
+  <img align="center" alt="Rod-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+
+  <img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rod-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Rod-Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="Rod_MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+
 </div>
+
   
   ##
   <div> 
