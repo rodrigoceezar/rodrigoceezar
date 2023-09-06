@@ -1,6 +1,6 @@
 ### Olá! Me chamo Rodrigo Cruz 👋
 
-- ✔ I’m currently cartography engineer at UFRA, Brazil
+- ✔ I’m cartography engineer at UFRA, Brazil
 - ✔ I’m currently learning Python, Machine Learning e Data Analytics
 - ✔ How to reach me: rodrigoceezar0@gmail.com
 - ✔ My data portfolio: https://rodrigoceezar.github.io/portfolio_projetos_ds/
