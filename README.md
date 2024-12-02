@@ -1,16 +1,8 @@
-<div align="right">banner by: [Pixel Jeff](https://www.behance.net/pixeljeff)</div>
-<img src="banner.gif" width="1124" height="350"/>  
+# Rodrigo Cezar Vieira Cruz - Portfólio
 
-# Olá! Me chamo Rodrigo Cruz👋
+Apresento aqui os projetos de Data Science e Data Analytics que desenvolvo ao longo da minha trajetória profissional, com foco em solucionar desafios de negócios. Meu objetivo é demonstrar habilidades técnicas e estratégicas na aplicação de ferramentas e conhecimentos de ciência de dados para gerar insights e criar soluções de impacto.
 
-Sou simplesmente facinado por tecnologia e analise de dados. Trabalho com dados focado na solução de problemas de negócio. 🎲📊
-
-Atualmente, crio projetos de analises de dados, automação, modelos preditivos com Machine Learning e crio dashboards para tomada de decisão.
-
-Estou em constante aprendizado, gosto de aprender coisas novas e inovar nas minhas análises. 📚
-
-Tenho habilidades com Excel, Python (Pandas, Matplotlib e Sklearn), SQL, Power BI. 💻
-
+## 👨🏻‍💻 Principais Técnologias
 <div align="center">
   <div style="display: inline_block"><br>
       <img align="center" alt="Rod-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -23,12 +15,12 @@ Tenho habilidades com Excel, Python (Pandas, Matplotlib e Sklearn), SQL, Power B
 ## 📈 Principais Projetos
 <div align="center">
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigoceezar&repo=rossmann_sales_prediction\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=22272E)](https://github.com/rodrigoceezar/rossmann_sales_prediction.git)
+<!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigoceezar&repo=rossmann_sales_prediction\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=22272E)](https://github.com/rodrigoceezar/rossmann_sales_prediction.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigoceezar&repo=dashboard_streamlit\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=22272E)](https://github.com/gudaoliveira/analise-de-dados-campeonato-brasileiro-2019)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigoceezar&repo=ftc_analisando_dados_com_python\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=22272E)](https://github.com/gudaoliveira/NIKE_gerenciador_de_reposicao_de_calcados)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigoceezar&repo=manipulacao_e_transformacao_dados_Pandas\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=22272E)](https://github.com/gudaoliveira/deliFoods_modelagem_banco_de_dados)
  
-Acesse [a página de repositórios](https://github.com/rodrigoceezar?tab=repositories) para ver a lista completa
+Acesse [a página de repositórios](https://github.com/rodrigoceezar?tab=repositories) para ver a lista completa-->
 
 </div>
 
@@ -38,5 +30,4 @@ Acesse [a página de repositórios](https://github.com/rodrigoceezar?tab=reposit
   <!--- <a href="https://www.instagram.com/rodrigoceezar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
   <a href="https://www.linkedin.com/in/rodrigoceezar-02/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://mail.google.com/mail/u/2/?ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-   <a href = "https://rodrigoceezar.github.io/portfolio_projetos_ds/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
