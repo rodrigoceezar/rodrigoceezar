@@ -1,6 +1,8 @@
 # Rodrigo Cezar Vieira Cruz - Portfólio
 
-Apresento aqui os projetos de Data Science e Data Analytics que desenvolvo ao longo da minha trajetória profissional, com foco em solucionar desafios de negócios. Meu objetivo é demonstrar habilidades técnicas e estratégicas na aplicação de ferramentas e conhecimentos de ciência de dados para gerar insights e criar soluções de impacto.
+Apresento aqui os projetos de Data Science e Data Analytics que desenvolvi ao longo da minha trajetória profissional, focados em solucionar desafios de negócios. Meu objetivo é demonstrar habilidades técnicas e estratégicas na aplicação de ferramentas e conhecimentos de ciência de dados para gerar insights e criar soluções de impacto.
+
+Além disso, como hobby, estudo desenvolvimento web, pois acho a área do front-end incrível. Eventualmente, também compartilharei projetos de desenvolvimento web.
 
 ## 👨🏻‍💻 Principais Técnologias
 <div align="center">
