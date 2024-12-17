@@ -4,7 +4,7 @@ Apresento aqui os projetos de Data Science e Data Analytics que desenvolvi ao lo
 
 Além disso, como hobby, estudo desenvolvimento web, pois acho a área do front-end incrível. Eventualmente, também compartilharei projetos de desenvolvimento web.
 
-## 👨🏻‍💻 Principais Técnologias
+## 👨🏻‍💻 Principais Tecnológias
 <div align="center">
   <div style="display: inline_block"><br>
       <img align="center" alt="Rod-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
