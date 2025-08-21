@@ -5,7 +5,8 @@ Este repositório no GitHub tem como objetivo registrar minha jornada de aprendi
 
 Aqui você encontrará:  
 - Projetos de **QGIS + Python**, conectando programação à minha profissão.  
-- Projetos da minha **jornada Fullstack**, cobrindo desde fundamentos até aplicações mais completas.  
+- Projetos da minha **jornada Fullstack**, cobrindo desde fundamentos até aplicações mais completas.
+- Projetos de DataScience  
 - Outros projetos que surgirem e que eu queira documentar, independentemente da área.  
 
 Este portfólio é, acima de tudo, um espaço de prática, estudo e registro dessa aventura pela programação. 🚀  
